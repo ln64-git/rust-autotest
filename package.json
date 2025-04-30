@@ -3,7 +3,12 @@
   "displayName": "Rust AutoTest",
   "description": "Auto-runs Rust tests on save using VSCode's native test runner.",
   "version": "1.0.0",
-  "publisher": "ln64.ohio",
+  "publisher": "ln64ohio",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ln64-git/rust-autotest"
+  },
+  "license": "MIT",
   "engines": {
     "vscode": "^1.99.0"
   },
