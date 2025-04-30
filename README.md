@@ -24,7 +24,6 @@ Automatically run your Rust tests on every file save — powered by VS Code’s 
 | Command | Description |
 |--------|-------------|
 | `Rust AutoTest: Toggle On/Off` | Enable or disable AutoTest |
-| Click `🧪 Rust AutoTest Ready` in the **status bar** | Also toggles AutoTest |
 
 ---
 
